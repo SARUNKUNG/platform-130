@@ -1,0 +1,78 @@
+
+
+body
+{
+    background-image: linear-gradient( to bottom,lightblue,pink);
+    color: white;
+}
+
+.container
+{
+    text-align: center;
+    
+}
+
+img
+{
+    width: 200px;
+    height: auto ;
+    background-color: white;
+    padding: 20px;
+    border-radius: 25% 25% 25% 25%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+}
+
+.info-container
+{
+    
+    width: 800px;
+    background-color: black;
+    opacity: 0.5;
+    border-radius: 15px;
+    margin-left: 22%;
+
+}
+
+
+
+#name
+{
+    text-align: center;
+    
+}
+
+#id
+{
+    margin-left:120px ;
+    margin-top:-5px ;
+    text-align: center;
+}
+
+h2
+{
+   margin-left: 8%;
+}
+
+p
+{
+    text-align: left;
+    margin: 8%;
+}
+
+
+
+ol
+{
+    margin-left: 5%;
+}
+
+ul li 
+{
+    margin-left: 5%;
+}
+
+footer
+{
+    text-align: center;
+}
